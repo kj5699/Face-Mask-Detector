@@ -1,4 +1,4 @@
-### Face-Mask-Detector
+## Face-Mask-Detector
 
 The project is based on live detection of person wearing a facial mask or not.
 As we know we are living in time where wearing facial mask is necessary as well
@@ -8,7 +8,9 @@ too.
 
  
 
-#### Project Implementation:
+
+
+### Project Implementation:
 *The project has 3 main parts:*
 
 - Classification :  To classify b/w if the person wearing mask and person without mask
@@ -17,7 +19,9 @@ too.
 
 
 
-#### Project Structure:
+
+
+### Project Structure:
 
 There are total 4 python notebooks in the project:
 
@@ -36,7 +40,9 @@ This folder contains pretrained models and haarcascades for Face Detection.
 
 
 
-#### Dependencies :
+
+
+### Dependencies :
 
 - PyTorch
 - OpenCv
@@ -45,7 +51,9 @@ This folder contains pretrained models and haarcascades for Face Detection.
 
 
 
-#### How to Run and Visualize the output
+
+
+### How to Run and Visualize the output
 
 If you want to see the Direct Results , Directly  run  "MaskPredictionLive_using_Facenet_Pytorch"
 
@@ -91,7 +99,9 @@ if you understand the complete flow of the Project follow the
 
 
 
-References 
+
+
+###References 
 
 [PYimage search](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 
