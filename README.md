@@ -92,10 +92,14 @@ if you understand the complete flow of the Project follow the
 - ###### Run
 
   1. Classification_Pytorch_Tl
-
-  2. MaskPrediction_Pytorch_TL
-
+2. MaskPrediction_Pytorch_TL
   3. MaskPredictionLive_using_OpenCv   or MaskPredictionLive_using Facenet_Pytorch
+
+
+
+#### Output
+
+
 
 
 
