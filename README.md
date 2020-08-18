@@ -97,7 +97,9 @@ if you understand the complete flow of the Project follow the
 
 
 
-#### Output
+### Output
+
+https://github.com/kj5699/Face-Mask-Detector/blob/master/output.avi
 
 
 
