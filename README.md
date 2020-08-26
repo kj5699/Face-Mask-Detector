@@ -99,11 +99,9 @@ if you understand the complete flow of the Project follow the
 
 ### Output
 
-https://github.com/kj5699/Face-Mask-Detector/blob/master/output.avi
 
 
-
-
+https://github.com/kj5699/Face-Mask-Detector/blob/master/Outputs/ezgif.com-video-to-gif.gif
 
 
 
