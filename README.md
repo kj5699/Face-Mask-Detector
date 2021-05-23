@@ -104,6 +104,10 @@ if you understand the complete flow of the Project follow the
 https://github.com/kj5699/Face-Mask-Detector/blob/master/Outputs/ezgif.com-video-to-gif.gif
 
 
+![image](https://user-images.githubusercontent.com/31451580/119259562-7ab09180-bbec-11eb-8323-6fafd8f0cfeb.png)
+
+
+
 
 ### References 
 
